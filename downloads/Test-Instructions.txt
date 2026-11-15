@@ -1,4 +1,4 @@
-Mindful Heart 1.54, build 28
+Mindful Heart 1.55, build 29
 Family beta test. Apple Silicon, macOS 13.5 or later.
 
 INSTALL
@@ -37,8 +37,8 @@ TRY THESE
 - Open the clipboard picker with Control-Option-V, copy a test item, then paste
   into TextEdit with Command-V.
 - Try light/dark mode, countdown visibility, and sleep/wake.
-- On 1.53, use Check for Updates to get 1.54. Confirm your saved items remain.
-- On 1.54, Check for Updates should report that you are up to date.
+- On 1.53 or 1.54, use Check for Updates to get 1.55. Confirm your saved items remain.
+- On 1.55, Check for Updates should report that you are up to date.
 
 PRIVACY
 Clipboard capture starts off. Enable it only if you want future copies stored
@@ -56,3 +56,8 @@ FEEDBACK
 Send the developer the app version, macOS version, what you tried and what
 happened. Redact private information from screenshots. GitHub issues at
 https://github.com/theoudatadynamics/mindful-heart/issues/new are public.
+
+WHAT IS NEW IN 1.55
+Automatic menu-bar sizing replaces the three display modes. Quote overlays remain optional and the attached style is called HeartSpace. Settings > Schedule includes Start at Login. About > What's New has an offline release history. A native appearance redraw loop has been fixed to reduce CPU work. Please confirm whether the disappearing quote is resolved on your Mac; this is not yet confirmed for every affected system.
+
+Quote overlays allow reading time based on text length, up to two minutes. Your selected duration is the minimum. Hover HeartSpace to pause dismissal or use its close button when finished. Settings > Appearance > Allow time to read can turn this off. Wellness nudges keep their separate timing.

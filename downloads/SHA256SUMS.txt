@@ -1,1 +1,1 @@
-f66bf55b4f9d4825c2c2964bcea6b3e08547e83fd8f81cade133aa8b32815d03  Mindful-Heart-1.54-arm64.zip
+58d7fc3ae870a1618063e2bc582743cb738cf3a1f159803b60862aa5a9a2de96  Mindful-Heart-1.55-arm64.zip
