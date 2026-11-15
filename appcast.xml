@@ -3,13 +3,12 @@
     <channel>
         <title>Mindful Heart</title>
         <item>
-            <title>1.55</title>
-            <pubDate>Mon, 16 Nov 2026 00:35:51 +0530</pubDate>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>1.55</sparkle:shortVersionString>
+            <title>1.56</title>
+            <pubDate>Mon, 16 Nov 2026 02:39:19 +0530</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.56</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/theoudatadynamics/mindful-heart/releases/download/v1.55-beta.29/Mindful-Heart-1.55-arm64.zip" length="3710506" type="application/octet-stream" sparkle:edSignature="agAy+oVleWIsDxe/LU/A8FVJkQ0BIervukpfe771KvE9AaSPX4j+kwbFaTRdZYUS7dKGmpe4lN+TaK76aADiDw=="/>
+            <enclosure url="https://github.com/theoudatadynamics/mindful-heart/releases/download/v1.56-beta.30/Mindful-Heart-1.56-universal.zip" length="4229989" type="application/octet-stream" sparkle:edSignature="nQ8qMomlBbhjyAxDVCegJCp99tk3UNDhNUFPTVvHFAcbaFDsGze++JGeiK1+pGdbVs++nRRYDCWYCAxOlMxzDg=="/>
         </item>
     </channel>
 </rss>

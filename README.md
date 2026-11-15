@@ -8,9 +8,9 @@ This repository hosts beta releases, signed update information and user feedback
 
 ## Try the beta
 
-[Download and installation guide](https://theoudatadynamics.github.io/mindful-heart/beta.html). Version 1.55 adds automatic sizing, the HeartSpace overlay, reading time, Start at Login, offline release notes and a fix for excessive redraw work and is available on the [Releases page](https://github.com/theoudatadynamics/mindful-heart/releases).
+[Download and installation guide](https://theoudatadynamics.github.io/mindful-heart/beta.html). Version 1.56 adds two complete quote passes, fixes repeated menu-bar resizing, reduces background work and includes a universal Mac download and is available on the [Releases page](https://github.com/theoudatadynamics/mindful-heart/releases).
 
-Apple Silicon, macOS 13.5 or later. The beta is locally signed and not Apple-notarized. Follow the per-app approval instructions only if you choose to trust the download. Existing-library migration from the older unsandboxed 1.52 remains unverified.
+Universal build for Apple Silicon and Intel, macOS 13.5 or later. Intel and older supported macOS runtime testing is still pending. The beta is locally signed and not Apple-notarized. Follow the per-app approval instructions only if you choose to trust the download. Existing-library migration from the older unsandboxed 1.52 remains unverified.
 
 ## Updates
 
