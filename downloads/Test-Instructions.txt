@@ -1,0 +1,37 @@
+Mindful Heart 1.53, build 27
+Family beta test. Apple Silicon, macOS 13.5 or later.
+
+INSTALL
+1. AirDrop Mindful-Heart-1.53-arm64.zip to the test MacBook.
+2. Double-click the ZIP, then move Mindful Heart.app into Applications.
+3. Open the app and finish the welcome steps.
+
+This is for a fresh installation. If this Mac already has Mindful Menu or Mindful
+Heart with saved data, stop before replacing it. Migration testing is unfinished.
+
+The beta is not Apple-notarized, so macOS may block it. If you trust this exact
+file from the developer and want to proceed, review Apple's instructions:
+https://support.apple.com/en-us/102445
+Use only the per-app approval offered by macOS. Do not disable system security
+or run Terminal commands to remove protections. If macOS reports malware or
+that the app is damaged, stop and send the exact warning to the developer.
+
+TRY THESE
+- Is the quote visible in the menu bar? Can you read a long quote to its end?
+- Can you open Quotes, search, save a favourite, quit and reopen with it intact?
+- Does a wellness reminder appear briefly and leave the normal quote unchanged?
+- Create a harmless test snippet. Edit, rename, save, pin and categorise it.
+- Open the clipboard picker with Control-Option-V, copy a test item, then paste
+  into TextEdit with Command-V.
+- Try light/dark mode, countdown visibility, and sleep/wake.
+- Use Check for Updates. The current empty feed should report no newer version.
+
+PRIVACY
+Clipboard capture starts off. Enable it only if you want future copies stored
+locally. Use sample text for testing. This ZIP contains no developer clipboard
+library or preferences. The beta has no automatic analytics receiver.
+
+FEEDBACK
+Send the developer the app version, macOS version, what you tried and what
+happened. Redact private information from screenshots. GitHub issues at
+https://github.com/theoudatadynamics/mindful-heart/issues/new are public.
