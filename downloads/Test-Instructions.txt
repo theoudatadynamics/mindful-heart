@@ -1,4 +1,4 @@
-Mindful Heart 1.53, build 27
+Mindful Heart 1.54, build 28
 Family beta test. Apple Silicon, macOS 13.5 or later.
 
 INSTALL
@@ -37,12 +37,20 @@ TRY THESE
 - Open the clipboard picker with Control-Option-V, copy a test item, then paste
   into TextEdit with Command-V.
 - Try light/dark mode, countdown visibility, and sleep/wake.
-- Use Check for Updates. The current empty feed should report no newer version.
+- On 1.53, use Check for Updates to get 1.54. Confirm your saved items remain.
+- On 1.54, Check for Updates should report that you are up to date.
 
 PRIVACY
 Clipboard capture starts off. Enable it only if you want future copies stored
 locally. Use sample text for testing. This ZIP contains no developer clipboard
 library or preferences. The beta has no automatic analytics receiver.
+
+OPTIONAL USAGE TOTALS
+Update consent does not enable usage collection. If you choose, open Settings >
+Privacy & beta and enable Collect optional usage totals on this Mac. After using
+the app, open See exactly what is recorded, review the counts, then choose Export
+usage totals. Share the JSON file with your beta contact only if you want to.
+Do not send a clipboard-library backup. Nothing is sent automatically.
 
 FEEDBACK
 Send the developer the app version, macOS version, what you tried and what
