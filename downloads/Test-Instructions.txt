@@ -2,19 +2,32 @@ Mindful Heart 1.53, build 27
 Family beta test. Apple Silicon, macOS 13.5 or later.
 
 INSTALL
-1. AirDrop Mindful-Heart-1.53-arm64.zip to the test MacBook.
+1. Download from https://theoudatadynamics.github.io/mindful-heart/beta.html.
 2. Double-click the ZIP, then move Mindful Heart.app into Applications.
 3. Open the app and finish the welcome steps.
 
 This is for a fresh installation. If this Mac already has Mindful Menu or Mindful
 Heart with saved data, stop before replacing it. Migration testing is unfinished.
 
-The beta is not Apple-notarized, so macOS may block it. If you trust this exact
-file from the developer and want to proceed, review Apple's instructions:
+IF APPLE CANNOT VERIFY MINDFUL HEART
+You may see "Mindful Heart Not Opened" and a message that Apple could not verify
+the app is free of malware. This beta has not been notarized by Apple.
+
+If you trust this download and choose to open it:
+1. Click Done in the warning.
+2. Open System Settings > Privacy & Security.
+3. Scroll down to the message about Mindful Heart and click Open Anyway.
+4. Authenticate with your Mac password or Touch ID if asked.
+5. Click Open in the confirmation dialog.
+
+macOS saves an exception for this app, so you can normally open it afterwards
+by double-clicking it. Apple's documented steps:
 https://support.apple.com/en-us/102445
-Use only the per-app approval offered by macOS. Do not disable system security
-or run Terminal commands to remove protections. If macOS reports malware or
-that the app is damaged, stop and send the exact warning to the developer.
+
+Do not disable Gatekeeper or run Terminal commands to remove security protections.
+If the warning says the app contains malware, will damage your computer, or is
+damaged, stop and report the exact message instead. If Open Anyway is unavailable
+on a managed Mac, contact its administrator.
 
 TRY THESE
 - Is the quote visible in the menu bar? Can you read a long quote to its end?
