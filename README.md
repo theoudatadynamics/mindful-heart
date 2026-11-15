@@ -4,22 +4,20 @@
 
 A Mac companion for meaningful quotes, gentle wellness nudges and a private clipboard library.
 
-This repository hosts beta releases, update information and user feedback. The application source is maintained separately.
+This repository hosts beta releases, signed update information and user feedback. The application source is maintained separately.
 
-## Beta downloads
+## Try the beta
 
-Tested beta downloads will appear on the [Releases page](https://github.com/theoudatadynamics/mindful-heart/releases). No release is published yet.
+[Download and installation guide](https://theoudatadynamics.github.io/mindful-heart/beta.html). Version 1.54 addresses menu-bar sizing on macOS 27.2 and is available on the [Releases page](https://github.com/theoudatadynamics/mindful-heart/releases).
 
-## Feedback
-
-[Report a problem or suggest an improvement](https://github.com/theoudatadynamics/mindful-heart/issues/new). Include your app version, macOS version, what you tried and what happened.
-
-Issues are public. Please leave out clipboard contents, passwords, personal information and confidential work data.
-
-## Privacy
-
-Clipboard history starts off and stores future copies locally when enabled. Optional usage totals also start off. The current beta does not send analytics automatically; testers can review and export a report themselves.
+Apple Silicon, macOS 13.5 or later. The beta is locally signed and not Apple-notarized. Follow the per-app approval instructions only if you choose to trust the download. Existing-library migration from the older unsandboxed 1.52 remains unverified.
 
 ## Updates
 
-The signed beta update channel is being prepared. An empty appcast does not provide an installable update. Existing testers will receive instructions for the first configured build when installation and data-preservation checks are complete.
+Version 1.53 and later include Sparkle and the signed beta update channel. Use Check for Updates in the app menu. Automatic checks and installation start off. The updater verifies the archive signature before installation.
+
+## Feedback and privacy
+
+[Report a problem or suggest an improvement](https://github.com/theoudatadynamics/mindful-heart/issues/new). Include the app version, macOS version, what you tried and what happened. Issues are public; leave out clipboard contents, passwords and confidential information.
+
+Clipboard capture and optional usage totals start off. The beta has no automatic analytics receiver. Testers can review and export their local feature-use counts if they choose. Update requests contact GitHub, which receives normal connection details such as IP addresses. Clipboard contents and usage totals are not attached to update requests.
