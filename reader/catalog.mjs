@@ -1,0 +1,235 @@
+// Generated from the reviewed app pack by scripts/build_reader_catalog.py.
+export const quotes = [
+  {
+    "id": "classic-01",
+    "quote": "Time is money. We should not be stingy or mean with it, but we should not throw away an hour any more than we would throw away a dollar-bill.",
+    "author": "Orison Swett Marden",
+    "category": "Time Management",
+    "book": "Pushing to the Front",
+    "year": 1894,
+    "checkedEdition": "1911 revised edition",
+    "locator": "CHAPTER VI POSSIBILITIES IN SPARE MOMENTS",
+    "sourceURL": "https://www.gutenberg.org/ebooks/21291"
+  },
+  {
+    "id": "classic-02",
+    "quote": "Don't wait for extraordinary opportunities. Seize common occasions and make them great.",
+    "author": "Orison Swett Marden",
+    "category": "Time Management",
+    "book": "Pushing to the Front",
+    "year": 1894,
+    "checkedEdition": "1911 revised edition",
+    "locator": "CHAPTER I THE MAN AND THE OPPORTUNITY",
+    "sourceURL": "https://www.gutenberg.org/ebooks/21291"
+  },
+  {
+    "id": "classic-04",
+    "quote": "Before a man can lift himself, he must lift his thought.",
+    "author": "Orison Swett Marden",
+    "category": "Mindset & Focus",
+    "book": "Peace, Power and Plenty",
+    "year": 1909,
+    "checkedEdition": "1909 scanned edition",
+    "locator": "Preface, signed O. S. M., January 1909",
+    "sourceURL": "https://archive.org/details/peacepowerplenty00mard"
+  },
+  {
+    "id": "classic-05",
+    "quote": "Man becomes a slave to his constantly repeated acts. … What he at first chooses, at last compels.",
+    "author": "Orison Swett Marden",
+    "category": "Habits & Action",
+    "book": "Architects of Fate",
+    "year": 1895,
+    "checkedEdition": "1897 edition",
+    "locator": "CHAPTER VII. SOWING AND REAPING.",
+    "sourceURL": "https://www.gutenberg.org/ebooks/21622"
+  },
+  {
+    "id": "classic-07",
+    "quote": "A man is literally what he thinks, his character being the complete sum of all his thoughts.",
+    "author": "James Allen",
+    "category": "Mindset & Focus",
+    "book": "As a Man Thinketh",
+    "year": 1903,
+    "checkedEdition": "Project Gutenberg transcription",
+    "locator": "THOUGHT AND CHARACTER",
+    "sourceURL": "https://www.gutenberg.org/ebooks/4507"
+  },
+  {
+    "id": "classic-08",
+    "quote": "Circumstance does not make the man; it reveals him to himself.",
+    "author": "James Allen",
+    "category": "Mindset & Focus",
+    "book": "As a Man Thinketh",
+    "year": 1903,
+    "checkedEdition": "Project Gutenberg transcription",
+    "locator": "EFFECT OF THOUGHT ON CIRCUMSTANCES",
+    "sourceURL": "https://www.gutenberg.org/ebooks/4507"
+  },
+  {
+    "id": "classic-09",
+    "quote": "A man cannot directly choose his circumstances, but he can choose his thoughts, and so indirectly, yet surely, shape his circumstances.",
+    "author": "James Allen",
+    "category": "Mindset & Focus",
+    "book": "As a Man Thinketh",
+    "year": 1903,
+    "checkedEdition": "Project Gutenberg transcription",
+    "locator": "EFFECT OF THOUGHT ON CIRCUMSTANCES",
+    "sourceURL": "https://www.gutenberg.org/ebooks/4507"
+  },
+  {
+    "id": "classic-10",
+    "quote": "Men imagine that thought can be kept secret, but it cannot; it rapidly crystallizes into habit, and habit solidifies into circumstance.",
+    "author": "James Allen",
+    "category": "Habits & Action",
+    "book": "As a Man Thinketh",
+    "year": 1903,
+    "checkedEdition": "Project Gutenberg transcription",
+    "locator": "EFFECT OF THOUGHT ON CIRCUMSTANCES",
+    "sourceURL": "https://www.gutenberg.org/ebooks/4507"
+  },
+  {
+    "id": "classic-11",
+    "quote": "Good thoughts and actions can never produce bad results; bad thoughts and actions can never produce good results.",
+    "author": "James Allen",
+    "category": "Habits & Action",
+    "book": "As a Man Thinketh",
+    "year": 1903,
+    "checkedEdition": "Project Gutenberg transcription",
+    "locator": "EFFECT OF THOUGHT ON CIRCUMSTANCES",
+    "sourceURL": "https://www.gutenberg.org/ebooks/4507"
+  },
+  {
+    "id": "classic-12",
+    "quote": "Blessedness and riches are only joined together when the riches are rightly and wisely used…",
+    "author": "James Allen",
+    "category": "Wealth",
+    "book": "As a Man Thinketh",
+    "year": 1903,
+    "checkedEdition": "Project Gutenberg transcription",
+    "locator": "EFFECT OF THOUGHT ON CIRCUMSTANCES",
+    "sourceURL": "https://www.gutenberg.org/ebooks/4507"
+  },
+  {
+    "id": "classic-13",
+    "quote": "There is a science of getting rich, and it is an exact science, like algebra or arithmetic.",
+    "author": "Wallace D. Wattles",
+    "category": "Wealth",
+    "book": "The Science of Getting Rich",
+    "year": 1910,
+    "checkedEdition": "1910 edition",
+    "locator": "CHAPTER II. THERE IS A SCIENCE OF GETTING RICH.",
+    "sourceURL": "https://www.gutenberg.org/ebooks/59844"
+  },
+  {
+    "id": "classic-14",
+    "quote": "There is nothing wrong in wanting to get rich. The desire for riches is really the desire for a richer, fuller, and more abundant life; and that desire is praiseworthy.",
+    "author": "Wallace D. Wattles",
+    "category": "Wealth",
+    "book": "The Science of Getting Rich",
+    "year": 1910,
+    "checkedEdition": "1910 edition",
+    "locator": "CHAPTER I. THE RIGHT TO BE RICH.",
+    "sourceURL": "https://www.gutenberg.org/ebooks/59844"
+  },
+  {
+    "id": "classic-15",
+    "quote": "He must give to every man a use value in excess of the cash value he receives, so that each transaction makes for more life…",
+    "author": "Wallace D. Wattles",
+    "category": "Wealth",
+    "book": "The Science of Getting Rich",
+    "year": 1910,
+    "checkedEdition": "1910 edition",
+    "locator": "CHAPTER XVII. SUMMARY OF THE SCIENCE OF GETTING RICH.",
+    "sourceURL": "https://www.gutenberg.org/ebooks/59844"
+  },
+  {
+    "id": "classic-16",
+    "quote": "By thought, the thing you want is brought to you; by action you receive it.",
+    "author": "Wallace D. Wattles",
+    "category": "Habits & Action",
+    "book": "The Science of Getting Rich",
+    "year": 1910,
+    "checkedEdition": "1910 edition",
+    "locator": "CHAPTER XI. ACTING IN THE CERTAIN WAY.",
+    "sourceURL": "https://www.gutenberg.org/ebooks/59844"
+  },
+  {
+    "id": "classic-17",
+    "quote": "Do, every day, ALL that can be done that day.",
+    "author": "Wallace D. Wattles",
+    "category": "Time Management",
+    "book": "The Science of Getting Rich",
+    "year": 1910,
+    "checkedEdition": "1910 edition",
+    "locator": "CHAPTER XII. EFFICIENT ACTION.",
+    "sourceURL": "https://www.gutenberg.org/ebooks/59844"
+  },
+  {
+    "id": "classic-18",
+    "quote": "Success in life is becoming what you want to be…",
+    "author": "Wallace D. Wattles",
+    "category": "Mindset & Focus",
+    "book": "The Science of Getting Rich",
+    "year": 1910,
+    "checkedEdition": "1910 edition",
+    "locator": "CHAPTER I. THE RIGHT TO BE RICH.",
+    "sourceURL": "https://www.gutenberg.org/ebooks/59844"
+  },
+  {
+    "id": "classic-19",
+    "quote": "The art of being wise is the art of knowing what to overlook.",
+    "author": "William James",
+    "category": "Mindset & Focus",
+    "book": "The Principles of Psychology, Volume II",
+    "year": 1890,
+    "checkedEdition": "1918 edition",
+    "locator": "CHAPTER XXII.[319] REASONING.",
+    "sourceURL": "https://www.gutenberg.org/ebooks/57634"
+  },
+  {
+    "id": "classic-20",
+    "quote": "Could the young but realize how soon they will become mere walking bundles of habits, they would give more heed to their conduct while in the plastic state.",
+    "author": "William James",
+    "category": "Habits & Action",
+    "book": "The Principles of Psychology, Volume I",
+    "year": 1890,
+    "checkedEdition": "1918 edition",
+    "locator": "CHAPTER IV.[136] HABIT.",
+    "sourceURL": "https://www.gutenberg.org/ebooks/57628"
+  },
+  {
+    "id": "classic-21",
+    "quote": "Habit is thus the enormous fly-wheel of society, its most precious conservative agent.",
+    "author": "William James",
+    "category": "Habits & Action",
+    "book": "The Principles of Psychology, Volume I",
+    "year": 1890,
+    "checkedEdition": "1918 edition",
+    "locator": "CHAPTER IV.[136] HABIT.",
+    "sourceURL": "https://www.gutenberg.org/ebooks/57628"
+  },
+  {
+    "id": "classic-22",
+    "quote": "Never suffer an exception to occur till the new habit is securely rooted in your life.",
+    "author": "William James",
+    "category": "Habits & Action",
+    "book": "The Principles of Psychology, Volume I",
+    "year": 1890,
+    "checkedEdition": "1918 edition",
+    "locator": "CHAPTER IV.[136] HABIT.",
+    "sourceURL": "https://www.gutenberg.org/ebooks/57628",
+    "attributionNote": "William James summarising Alexander Bain on habit."
+  },
+  {
+    "id": "classic-23",
+    "quote": "My experience is what I agree to attend to. Only those items which I notice shape my mind…",
+    "author": "William James",
+    "category": "Mindset & Focus",
+    "book": "The Principles of Psychology, Volume I",
+    "year": 1890,
+    "checkedEdition": "1918 edition",
+    "locator": "CHAPTER XI. ATTENTION.",
+    "sourceURL": "https://www.gutenberg.org/ebooks/57628"
+  }
+];
