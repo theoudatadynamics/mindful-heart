@@ -1,4 +1,4 @@
-Mindful Heart 1.70, build 52
+Mindful Heart 1.71, build 53
 Family beta test. Universal build for Apple Silicon and Intel, macOS 13.5 or later.
 Intel and older supported macOS runtime testing is still pending.
 
@@ -32,6 +32,8 @@ damaged, stop and report the exact message instead. If Open Anyway is unavailabl
 on a managed Mac, contact its administrator.
 
 TRY THESE
+- Open another app full screen and check that the Mindful Heart panel opens in that Space.
+- Complete a daily habit in Wellness and hide and restore a reminder.
 - Switch between Quote, Reminders, Wellness and Clipboard in both directions.
   The panel should keep its size. Scroll inside Reminders and Wellness.
 - Preview a quote overlay and try Copy or Save. Hover to keep it open.
@@ -50,8 +52,8 @@ TRY THESE
 - Open the clipboard picker with Control-Option-V, copy a test item, then paste
   into TextEdit with Command-V.
 - Try light/dark mode, countdown visibility, and sleep/wake.
-- On an earlier sandboxed beta, use Check for Updates to get 1.70. Confirm your saved items remain.
-- On 1.70 build 52, Check for Updates should report that you are up to date.
+- On an earlier sandboxed beta, use Check for Updates to get 1.71. Confirm your saved items remain.
+- On 1.71 build 53, Check for Updates should report that you are up to date.
 
 PRIVACY
 Clipboard capture starts off. Enable it only if you want future copies stored
