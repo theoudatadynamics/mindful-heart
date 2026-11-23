@@ -8,7 +8,7 @@ This repository hosts beta releases, signed update information and user feedback
 
 ## Try the beta
 
-[Download and installation guide](https://theoudatadynamics.github.io/mindful-heart/beta.html). Version 1.64 adds language-aware Telugu/English speech, preserves wellness reminder deadlines across restarts and repairs explicit reminder previews. It retains the Settings-reopening and call-aware speech freeze repairs, stable manual quote width and optional geometry-based fitting. Nearby native-companion sync remains experimental and opt-in. Get it from the [Releases page](https://github.com/theoudatadynamics/mindful-heart/releases).
+[Download and installation guide](https://theoudatadynamics.github.io/mindful-heart/beta.html). Version 1.65 adds persisted no-repeat quote cycles, fair category turns, broader new-setup defaults, quiet startup/wake/resume and immediate speech cancellation on Pause or lock. It retains the previous Settings, reminder and language-aware speech repairs. Nearby native-companion sync remains experimental and opt-in. Get it from the [Releases page](https://github.com/theoudatadynamics/mindful-heart/releases).
 
 Universal build for Apple Silicon and Intel, macOS 13.5 or later. Intel and older supported macOS runtime testing is still pending. The beta is locally signed and not Apple-notarized. Follow the per-app approval instructions only if you choose to trust the download. Existing-library migration from the older unsandboxed 1.52 remains unverified.
 
