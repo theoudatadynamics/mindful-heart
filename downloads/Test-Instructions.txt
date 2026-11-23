@@ -1,4 +1,4 @@
-Mindful Heart 1.67, build 49
+Mindful Heart 1.68, build 50
 Family beta test. Universal build for Apple Silicon and Intel, macOS 13.5 or later.
 Intel and older supported macOS runtime testing is still pending.
 
@@ -32,6 +32,8 @@ damaged, stop and report the exact message instead. If Open Anyway is unavailabl
 on a managed Mac, contact its administrator.
 
 TRY THESE
+- In the menu-bar panel, open Reminders. Check the next nudge or pause reason,
+  snooze a due Mindful Heart reminder for 10 minutes, and try Open Wellness.
 - Try a wide display and then return to the laptop display. The quote should
   use the space available. Read the full quote with Option-Command-M while
   Mindful Heart is active. Check the next nudge or pause reason in Wellness.
@@ -41,8 +43,8 @@ TRY THESE
 - Open the clipboard picker with Control-Option-V, copy a test item, then paste
   into TextEdit with Command-V.
 - Try light/dark mode, countdown visibility, and sleep/wake.
-- On an earlier sandboxed beta, use Check for Updates to get 1.67. Confirm your saved items remain.
-- On 1.67 build 49, Check for Updates should report that you are up to date.
+- On an earlier sandboxed beta, use Check for Updates to get 1.68. Confirm your saved items remain.
+- On 1.68 build 50, Check for Updates should report that you are up to date.
 
 PRIVACY
 Clipboard capture starts off. Enable it only if you want future copies stored
