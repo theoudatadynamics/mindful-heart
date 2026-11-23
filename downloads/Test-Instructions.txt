@@ -1,4 +1,4 @@
-Mindful Heart 1.65, build 47
+Mindful Heart 1.66, build 48
 Family beta test. Universal build for Apple Silicon and Intel, macOS 13.5 or later.
 Intel and older supported macOS runtime testing is still pending.
 
@@ -39,8 +39,8 @@ TRY THESE
 - Open the clipboard picker with Control-Option-V, copy a test item, then paste
   into TextEdit with Command-V.
 - Try light/dark mode, countdown visibility, and sleep/wake.
-- On an earlier sandboxed beta, use Check for Updates to get 1.65. Confirm your saved items remain.
-- On 1.65 build 47, Check for Updates should report that you are up to date.
+- On an earlier sandboxed beta, use Check for Updates to get 1.66. Confirm your saved items remain.
+- On 1.66 build 48, Check for Updates should report that you are up to date.
 
 PRIVACY
 Clipboard capture starts off. Enable it only if you want future copies stored
@@ -55,9 +55,11 @@ usage totals. Share the JSON file with your beta contact only if you want to.
 Do not send a clipboard-library backup. Nothing is sent automatically.
 
 FEEDBACK
-Send the developer the app version, macOS version, what you tried and what
-happened. Redact private information from screenshots. GitHub issues at
-https://github.com/theoudatadynamics/mindful-heart/issues/new are public.
+Open Settings > Privacy & beta. Write a short report, select Review and send,
+then choose Send feedback. Keep the receipt in case you contact support. Usage
+totals are included only if you select them. Leave clipboard contents, passwords
+and private work information out of your message.
+https://theoudatadynamics.github.io/mindful-heart/privacy.html#feedback
 
 WHAT IS NEW IN 1.65
 - Use Next quote several times. Selected categories should participate, and each
