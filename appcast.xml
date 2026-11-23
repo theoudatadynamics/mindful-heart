@@ -8,7 +8,7 @@
             <sparkle:version>47</sparkle:version>
             <sparkle:shortVersionString>1.65</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/theoudatadynamics/mindful-heart/releases/download/v1.65-beta.47/Mindful-Heart-1.65-universal.zip" length="4739353" type="application/octet-stream" sparkle:edSignature="mzCfcC0gJZuufi3bcyAiw9W3xp8qWywHZnLW2tRRnf74Gw3J1mobWV18SdrKdS3o41wZuKAUl6oCNr8aQmHJBA=="/>
+            <enclosure url="https://github.com/theoudatadynamics/mindful-heart/releases/download/v1.65-beta.47/Mindful-Heart-1.65-universal-update.zip" length="4739353" type="application/octet-stream" sparkle:edSignature="mzCfcC0gJZuufi3bcyAiw9W3xp8qWywHZnLW2tRRnf74Gw3J1mobWV18SdrKdS3o41wZuKAUl6oCNr8aQmHJBA=="/>
         </item>
     </channel>
 </rss>
