@@ -13,17 +13,18 @@
       <stop stop-color="#ffe6fa" stop-opacity=".15"/>
       <stop offset="1" stop-color="#ffe6fa" stop-opacity="0"/>
     </radialGradient>
-    <path id="outline" d="M.83 .54C.76 .68 .59 .82 .48 .89C.3 .78 .1 .59 .1 .36C.1 .13 .35 .11 .48 .25Q.55 .16 .64 .17"/>
-    <path id="ink" d="M.24 .54Q.369 .59 .39 .59Q.416 .59 .55 .54"/>
-    <path id="pencil" d="M0.5500 0.5400L0.5861 0.4318 0.8385 0.1794Q0.8746 0.1433 0.9106 0.1794Q0.9467 0.2154 0.9106 0.2515L0.6582 0.5039Z"/>
+    <path id="outline" d="M.83 .54C.76 .68 .59 .82 .48 .89C.3 .78 .1 .59 .1 .36C.1 .13 .35 .11 .48 .25C.63 .10 .80 .13 .86 .30"/>
+    <path id="ink" d="M.21 .53H.33L.40 .46 .47 .62 .55 .38 .63 .53H.78"/>
+    <path id="pencil" d="M0 0L.073 -.036H.253Q.29 -.036 .29 0Q.29 .036 .253 .036H.073Z"
+          transform="translate(.78 .53) rotate(-54.43)"/>
   </defs>
   <rect x="3.12" y="3.744" width="41.76" height="41.76" rx="9.12" fill="#211445"/>
   <rect x="3.12" y="3.12" width="41.76" height="41.76" rx="9.12" fill="url(#tile)"/>
   <rect x="3.12" y="3.12" width="41.76" height="41.76" rx="9.12" fill="url(#sheen)"/>
   <rect x="3.37" y="3.37" width="41.26" height="41.26" rx="8.87"
         fill="none" stroke="#dbc4ff" stroke-opacity=".26" stroke-width=".5"/>
-  <g transform="translate(10.08 10.08) scale(27.84)" stroke-linecap="round">
-    <g transform="translate(.006 .012)" stroke="#bfb8c7" opacity=".88">
+  <g transform="translate(10.08 10.08) scale(27.84)" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(.003 .006)" stroke="#bfb8c7" opacity=".46">
       <use href="#outline" fill="none" stroke-width=".071"/>
       <use href="#ink" fill="none" stroke-width=".053"/>
       <use href="#pencil" stroke="none" fill="#bfb8c7"/>

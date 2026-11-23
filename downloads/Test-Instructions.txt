@@ -1,4 +1,4 @@
-Mindful Heart 1.72, build 54
+Mindful Heart 1.73, build 55
 Family beta test. Universal build for Apple Silicon and Intel, macOS 13.5 or later.
 Intel and older supported macOS runtime testing is still pending.
 
@@ -54,8 +54,8 @@ TRY THESE
 - Open the clipboard picker with Control-Option-V, copy a test item, then paste
   into TextEdit with Command-V.
 - Try light/dark mode, countdown visibility, and sleep/wake.
-- On an earlier sandboxed beta, use Check for Updates to get 1.72. Confirm your saved items remain.
-- On 1.72 build 54, Check for Updates should report that you are up to date.
+- On an earlier sandboxed beta, use Check for Updates to get 1.73. Confirm your saved items remain.
+- On 1.73 build 55, Check for Updates should report that you are up to date.
 
 PRIVACY
 Clipboard capture starts off. Enable it only if you want future copies stored
@@ -110,3 +110,8 @@ If macOS blocks clipboard access, review Privacy & Security and copy a new item.
 Do not use confidential information to test history.
 
 Quote overlays allow reading time based on text length, up to two minutes. Your selected duration is the minimum. Hover HeartSpace to pause dismissal or use its close button when finished. Settings > Appearance > Allow time to read can turn this off. Wellness nudges keep their separate timing.
+
+Practice a quote or verse
+- Open the menu-bar Quote panel and choose Practice, or choose Practice on a quote or offline verse in the Quotes library.
+- Try Recall, Missing words, or Phrase order. Choose Got it to schedule a review or Again to retry.
+- Open Quotes → Practice to see your review deck. Your practice progress stays on this Mac.
