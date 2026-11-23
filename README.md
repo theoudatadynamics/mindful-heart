@@ -8,7 +8,7 @@ A Mac companion for meaningful quotes, gentle wellness nudges and a private clip
 
 [Download and installation guide](https://theoudatadynamics.github.io/mindful-heart/beta.html) · [All releases](https://github.com/theoudatadynamics/mindful-heart/releases)
 
-Version 1.73 adds a local practice deck for quotes and verses and a pencil-drawn heartbeat logo. The universal package targets Apple Silicon and Intel, macOS 13.5 or later. The early beta is locally signed and has not been notarized by Apple. Existing-library migration from unsandboxed 1.52 is still being tested.
+Version 1.74 adds a dedicated Memorise tab with scores, difficulty levels and collections for quotes and verses. The universal package targets Apple Silicon and Intel, macOS 13.5 or later. The early beta is locally signed and has not been notarized by Apple. Existing-library migration from unsandboxed 1.52 is still being tested.
 
 ## Updates and feedback
 
