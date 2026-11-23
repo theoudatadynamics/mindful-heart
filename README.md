@@ -8,10 +8,10 @@ A Mac companion for meaningful quotes, gentle wellness nudges and a private clip
 
 [Download and installation guide](https://theoudatadynamics.github.io/mindful-heart/beta.html) · [All releases](https://github.com/theoudatadynamics/mindful-heart/releases)
 
-Version 1.66 adds private in-app feedback. The universal package targets Apple Silicon and Intel, macOS 13.5 or later. The early beta is locally signed and has not been notarized by Apple. Existing-library migration from unsandboxed 1.52 is still being tested.
+Version 1.67 adjusts the menu-bar quote to the display, clarifies reminder timing and adds a Help menu shortcut for private feedback. The universal package targets Apple Silicon and Intel, macOS 13.5 or later. The early beta is locally signed and has not been notarized by Apple. Existing-library migration from unsandboxed 1.52 is still being tested.
 
 ## Updates and feedback
 
 Use **Check for Updates** in the Mindful Heart app menu. Sparkle checks the signature before installation. Automatic checks and installation start off.
 
-In **Settings → Privacy & beta**, write your feedback and choose **Review and send**. The app gives you a receipt after successful delivery. Usage totals are optional and never sent automatically. [Feedback privacy details](https://theoudatadynamics.github.io/mindful-heart/privacy.html#feedback).
+From **Help → Send Feedback**, write your feedback and choose **Review and send**. The app gives you a receipt after successful delivery. Usage totals are optional and never sent automatically. [Feedback privacy details](https://theoudatadynamics.github.io/mindful-heart/privacy.html#feedback).
