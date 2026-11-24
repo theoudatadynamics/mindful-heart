@@ -1,4 +1,4 @@
-Mindful Heart 1.78, build 60
+Mindful Heart 1.79, build 61
 Family beta test. Universal build for Apple Silicon and Intel, macOS 13.5 or later.
 Intel and older supported macOS runtime testing is still pending.
 
@@ -54,8 +54,8 @@ TRY THESE
 - Open the clipboard picker with Control-Option-V, copy a test item, then paste
   into TextEdit with Command-V.
 - Try light/dark mode, countdown visibility, and sleep/wake.
-- On an earlier sandboxed beta, use Check for Updates to get 1.78. Confirm your saved items remain.
-- On 1.78 build 60, Check for Updates should report that you are up to date.
+- On an earlier sandboxed beta, use Check for Updates to get 1.79. Confirm your saved items remain.
+- On 1.79 build 61, Check for Updates should report that you are up to date.
 
 PRIVACY
 Clipboard capture starts off. Enable it only if you want future copies stored
@@ -131,3 +131,7 @@ Resume an unfinished reminder
 At the reminder’s due time
 - HeartSpace opens and the menu-bar cue shows Now. You can turn off the overlay in Settings → Reminders.
 - Turn on Ring for 10 seconds when due to hear a short chime repeated over ten seconds. Click the menu-bar item or dismiss the overlay to silence it.
+
+Try a reminder alert
+- In Settings → Reminders, click Test Alert to see the sample overlay and hear the chime. Dismiss the overlay to silence it.
+- For a single timed reminder, click Snooze 5 min to schedule a local follow-up or Mark as Done to complete it in Apple Reminders.
