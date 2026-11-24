@@ -1,4 +1,4 @@
-Mindful Heart 1.74, build 56
+Mindful Heart 1.75, build 57
 Family beta test. Universal build for Apple Silicon and Intel, macOS 13.5 or later.
 Intel and older supported macOS runtime testing is still pending.
 
@@ -54,8 +54,8 @@ TRY THESE
 - Open the clipboard picker with Control-Option-V, copy a test item, then paste
   into TextEdit with Command-V.
 - Try light/dark mode, countdown visibility, and sleep/wake.
-- On an earlier sandboxed beta, use Check for Updates to get 1.74. Confirm your saved items remain.
-- On 1.74 build 56, Check for Updates should report that you are up to date.
+- On an earlier sandboxed beta, use Check for Updates to get 1.75. Confirm your saved items remain.
+- On 1.75 build 57, Check for Updates should report that you are up to date.
 
 PRIVACY
 Clipboard capture starts off. Enable it only if you want future copies stored
@@ -115,3 +115,7 @@ Memorise a quote or verse
 - Open Memorise in the menu-bar popover or sidebar of the Mac app.
 - Create a collection, then use Add to collection for the current quote. Use the Collections menu while practising a quote or verse to file it.
 - Choose Easy, Medium or Hard. Check your score after Missing words or Phrase order, or rate your own Recall round. The review deck keeps each card’s latest score.
+
+Type test and reminder types
+- In Memorise, open a quote or verse and choose Type test. Enter each word, correct a mismatch, or choose Study again to reread the full text.
+- In Reminders, choose a type such as Call or Meeting when adding an item. Apple Reminders handles its due-time alert when notifications are enabled.
