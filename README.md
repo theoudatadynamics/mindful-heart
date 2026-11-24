@@ -8,7 +8,7 @@ A Mac companion for meaningful quotes, gentle wellness nudges and a private clip
 
 [Download and installation guide](https://theoudatadynamics.github.io/mindful-heart/beta.html) · [All releases](https://github.com/theoudatadynamics/mindful-heart/releases)
 
-Version 1.82 lets you complete Apple Reminders directly from the menu bar. The universal package targets Apple Silicon and Intel, macOS 13.5 or later. The early beta is locally signed and has not been notarized by Apple. Existing-library migration from unsandboxed 1.52 is still being tested.
+Version 1.83 clarifies automatic update settings on this Mac. The universal package targets Apple Silicon and Intel, macOS 13.5 or later. The early beta is locally signed and has not been notarized by Apple. Existing-library migration from unsandboxed 1.52 is still being tested.
 
 ## Updates and feedback
 
