@@ -8,7 +8,7 @@ A Mac companion for meaningful quotes, gentle wellness nudges and a private clip
 
 [Download and installation guide](https://theoudatadynamics.github.io/mindful-heart/beta.html) · [All releases](https://github.com/theoudatadynamics/mindful-heart/releases)
 
-Version 1.78 adds a due-time HeartSpace overlay and an optional ten-second chime for Apple Reminders. The universal package targets Apple Silicon and Intel, macOS 13.5 or later. The early beta is locally signed and has not been notarized by Apple. Existing-library migration from unsandboxed 1.52 is still being tested.
+Version 1.79 adds Snooze, Mark as Done, and a sample reminder alert in HeartSpace. The universal package targets Apple Silicon and Intel, macOS 13.5 or later. The early beta is locally signed and has not been notarized by Apple. Existing-library migration from unsandboxed 1.52 is still being tested.
 
 ## Updates and feedback
 
